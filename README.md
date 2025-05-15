@@ -67,9 +67,14 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Contributing
 
 Fork the repository
+
 Create your feature branch
+
 Commit your changes
+
 Push to the branch
+
 Create a new Pull Request
+
 Support
 For support, please open an issue in the repository.

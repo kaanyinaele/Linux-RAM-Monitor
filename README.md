@@ -1,4 +1,4 @@
-# RAM Monitor Pro
+# RAM Monitor
 
 A powerful Linux RAM monitoring tool that helps you keep track of your system's memory usage and identify memory-hungry processes.
 
